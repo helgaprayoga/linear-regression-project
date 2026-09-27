@@ -1,0 +1,7 @@
+.venv/
+*.doc
+*.docx
+~$*.docx
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
